@@ -1,0 +1,17 @@
+{
+  "name": "bookstore",
+  "version": "1.0.0",
+  "description": "App for ebook Sales",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Bolorunduro Valiant-Joshua",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "express-handlebars": "^3.0.0",
+    "stripe": "^6.13.0"
+  }
+}
